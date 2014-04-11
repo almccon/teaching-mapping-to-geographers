@@ -22,7 +22,7 @@ Introduction
 [ ] OSM <-> Geography (OSM logo, AAG Logo?)
 [X] Picture of the students in the hallways
 [ ] Diagram or similar: GIS, remote sensing, surveying, cartography, & most often with undergraduates: none of the above
-[ ] Prior knowledge of geography is a double-edged sword
+[x] Prior knowledge of geography is a double-edged sword
 
 Our Approach
 [ ] Slide(s) for what Alan emphasized in his talk
