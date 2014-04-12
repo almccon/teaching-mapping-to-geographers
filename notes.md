@@ -1,11 +1,18 @@
 Teaching Mapping to Geographers
+
 Steph / Alan Introduce themselves
-Who?
+
+Who? 
+
 Students
-Why? Bc as a dicipline geography has been doing mapping for a long time, natural fit? hm
-bring preexisting models and ideas about projects that involve mapping layers of data work
-(in practice, there is an incredible range of students, most often with undergraduates: none of the above)
+* do not have great context for understanding a community built through listservs and IRC chats
+
+Why? 
+* we are up against every professor they have ever had on the topics of GIS, remote sensing, surveying and cartography, because all of these elements are represented in OSM, but they arise from different paradigms than these students are used to
+* (in practice, there is an incredible range of students, most often with undergraduates: none of the above)
+
 dbl edged sword - good (presumption of interest) bad (competing models)
+
 OSM is a data project
 
 ...not a map
