@@ -7,11 +7,31 @@ bring preexisting models and ideas about projects that involve mapping layers of
 (in practice, there is an incredible range of students, most often with undergraduates: none of the above)
 dbl edged sword - good (presumption of interest) bad (competing models)
 OSM is a data project
+
 ...not a map
+
 ...not a GIS
+
 Our data model is... peculiar
+
+*	It's not exactly points lines and polygons
+*	But this helps them question the assumptions of ArcGIS.
+
 QA tools
-...
+
+*	All their other geography teachers are probably telling them that OSM data can't be trusted, that it's probably full of errors. 
+*	So I like to show them the QA tools the expert OSM users rely on.
+*	Not expecting the students to use these... yet.
+*	But it shows _how_ OSM maintains its quality.
+*	And it is a good pointer into the _complexity_ of the data
+
+TIGER as a teachable moment
+
+*	Gives them tasks to do
+*	Makes them question the quality of the "professional" datasets they otherwise use.
+*	Shows the variation in the OSM community.
+*	Lets us start talking about licensing!
+
 Hands-on Experience: Our Approach at San Francisco State University
 Gator logo
 Pic of class
